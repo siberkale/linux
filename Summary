@@ -1,0 +1,25 @@
+History
+
+• Origins of UNIX (1969): Linux is inspired by UNIX, which was created at Bell Labs by Ken Thompson and Dennis Ritchie.
+• Minix (1987): Andrew Tanenbaum developed Minix, a UNIX-like OS for educational purposes.
+• Birth of Linux (1991): Linus Torvalds, a Finnish student, created Linux as a hobby project to improve Minix. He released the first version (0.01) in 1991.
+• Open Source Community (1992-Today): Linux was released under the GNU General Public License (GPL), allowing anyone to use, modify, and distribute it freely.
+
+Why it is so popular?
+
+1. Open Source and Free
+2. Stability and Reliability
+3. Security and Privacy
+4. Performance and Efficiency
+5. Flexibility and Customization
+6. Developer and IT Industry Adoption
+7. Large and Supportive Community
+8. Powering the Internet and Beyond
+
+What is sudo? sudo (Superuser Do)
+
+Add a user to the sudo group (Requires root access):
+  sudo usermod -aG sudo username  # Ubuntu/Debian
+  sudo usermod -aG wheel username  # RHEL/CentOS
+
+How to open the terminal?  Ubuntu/Linux Mint: Ctrl + Alt + T
