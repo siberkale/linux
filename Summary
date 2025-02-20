@@ -23,3 +23,5 @@ Add a user to the sudo group (Requires root access):
   sudo usermod -aG wheel username  # RHEL/CentOS
 
 How to open the terminal?  Ubuntu/Linux Mint: Ctrl + Alt + T
+
+pwd – Show current directory path
