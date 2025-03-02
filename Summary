@@ -248,4 +248,10 @@ Sockets: Used for inter-process communication
 Named pipes: Used for communication between processes
 
 -------------
-
+scp win --> linux
+dosyanın olduğu dizinde --> scp -r text.txt kullanıcıadı@ip:/tmp
+----------
+linux dosya derleme
+gcc 39292.c --> “a.out” adında bir dosya oluştuğunu görmelisiniz. Bu c kodunuzun derlenmiş, çalıştırılabilir(binary) halidir.
+./a.out --> yazmamız yeterli olacaktır. Böylece C kodumuzun çıktısını konsol üzerinde görebiliriz.
+gcc 39292.c -o 39292 --> ./39292 farklı ad ile oluşturduk.
